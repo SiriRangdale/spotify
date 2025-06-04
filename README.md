@@ -1,4 +1,4 @@
-##Spotify Genre-Based Insights using Medallion Architecture in Azure Databricks and Power BI
+Spotify Genre-Based Insights using Medallion Architecture in Azure Databricks and Power BI
 
 Objective:
 To analyze a large Spotify dataset by applying the Medallion Architecture in Azure Databricks, standardize inconsistent genre values, and derive actionable insights using a Power BI dashboard.
