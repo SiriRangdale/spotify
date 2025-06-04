@@ -42,7 +42,7 @@ Top 3 artsists based on Popularity
 Top 3 artsists based on Followers
 Filters by year, genre, or artist
 
-📈 Insights Discovered:
+Insights Discovered:
 Pop genre had the highest number of unique artists.
 Tailor Swift , Arctic Monkey and Ariana Grande were found to be the top 3 artsists based on Popularity.
 Arjit Singh, Tailor Swift and Ed sheeran were found to be the Top 3 artsists based on followers.
